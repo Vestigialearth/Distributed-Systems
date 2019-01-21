@@ -7,19 +7,20 @@ In our assignment, we are going to simulate some smart devices, focusing on how 
 
 
 Process:
-Create a smart device instance
 
-Add/remove/update delete the smart device in a group of devices
+-Create a smart device instance
 
-Move devices between groups
+-Add/remove/update delete the smart device in a group of devices
 
-Turn on/off a device
+-Move devices between groups
 
-Show the state of all devices
+-Turn on/off a device
 
-Set a timer for a device with a simple trigger (on/off), i.e. turn off device 30 minutes after it was turned on.
+-Show the state of all devices
 
-Set a schedule for a device (on/off), i.e. turn on a device at 12:30
+-Set a timer for a device with a simple trigger (on/off), i.e. turn off device 30 minutes after it was turned on.
+
+-Set a schedule for a device (on/off), i.e. turn on a device at 12:30
 
 
 
