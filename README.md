@@ -5,19 +5,8 @@ Premise:
 In our assignment, we are going to simulate some smart devices, focusing on how to maintain state and control one or more of them. To make things interesting, we will also have background “threads” that support timers (to turn the device off after a certain amount of elapsed time) and events (on at certain time, off at certain time).  We will also have reporting (logs) that allow us to see all events and usage information associated with these smart devices.
 
 
-Objectives:
-
-Here are the devices you will support:
-
-Smart light bulbs with on/off switch, dimming, and (optional) color capabilities
-
-Smart outlets and/or switches with up to 7 individually-controllable outlets (TP-Link sells these in 1, 2, and power strip versions). 
-
-Other smart devices (doorbells) that can trigger events.
-
 
 Process:
-
 Create a smart device instance
 
 Add/remove/update delete the smart device in a group of devices
